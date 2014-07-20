@@ -1,0 +1,25 @@
+{
+  "name": "jquery-banner",
+  "version": "1.2.1",
+  "description": "jquery.fn.banner 焦点图",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "banner"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-banner"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-banner.js",
+    "dependencies": {}
+  }
+}
